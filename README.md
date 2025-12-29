@@ -1,10 +1,9 @@
-<!-- Hero -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Dawit%20Bonga&fontAlign=50&fontAlignY=35&desc=CS%20@%20Yale%20•%20ML%20•%20Full-stack%20•%20Builder&descAlign=50&descAlignY=55" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=I+build+projects+that+turn+ideas+into+working+products.;ML+%7C+Full-stack+%7C+Systems+%7C+Sports+analytics.;Currently%3A+shipping+LectureLense+%26+improving+my+recommender+stack." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=I+build+projects+that+turn+ideas+into+working+products.;ML+%7C+Full-stack+%7C+Systems+%7C+Sports+analytics.;Currently%3A+Building+NBA+analytics+tools+%26+refining+recommender+systems." />
 </p>
 
 <h2 align="center">Hey, I'm Dawit 👋</h2>
@@ -16,7 +15,6 @@
 </p>
 
 <p align="center">
-  <!-- Replace these when you want -->
   <a href="https://www.tiktok.com/@college_for_first_gen">TikTok</a> •
   <a href="https://github.com/Dawit-Bonga">GitHub</a> •
   <a href="mailto:your@email.com">Email</a>
@@ -25,7 +23,6 @@
 ---
 
 ## 🔥 What I'm working on
-- 🎥 **LectureLense** — making rewatching lectures + studying way easier (searchable, structured learning flow)
 - 🏀 **NBA Prop + Betting Projects** — feature pipelines, evaluation, and decision logic
 - 🤖 **Anime Recommendation System** — CF/SVD + better cold-start + more “real recommender” engineering
 - 🧠 **Interview + systems grind** — building + practicing at the same time
@@ -33,9 +30,6 @@
 ---
 
 ## 🚀 Featured Projects
-### 🎥 LectureLense
-Making rewatching lectures and learning an easier process.  
-**Repo:** https://github.com/Dawit-Bonga/LectureLense
 
 ### 🏀 NBA Prop Predictor
 Player prop modeling + data analysis + experimentation.  
@@ -44,10 +38,6 @@ Player prop modeling + data analysis + experimentation.
 ### 🎬 Anime Recommendation System
 Built on MyAnimeList data; exploring collaborative filtering + hybrid recommenders.  
 **Repo:** https://github.com/Dawit-Bonga/Anime_Recommendation_System
-
-### 🚗 RideShare Optimizer
-A practical optimization-style project — compares / chooses best option based on constraints.  
-**Repo:** https://github.com/Dawit-Bonga/RideShare_Optimizer
 
 ### 🐚 Mini Shell (C)
 A mini-shell implementation to learn low-level systems fundamentals.  
