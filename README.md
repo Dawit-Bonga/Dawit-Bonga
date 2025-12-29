@@ -15,9 +15,8 @@
 </p>
 
 <p align="center">
-  <!-- <a href="https://www.tiktok.com/@college_for_first_gen">TikTok</a> • -->
-  <a href="https://github.com/Dawit-Bonga">GitHub</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://www.linkedin.com/in/dawit-bonga/">Linkedin</a> •
+  <a href="mailto:dawitbonga0@gmail.com">Email</a>
 </p>
 
 ---
