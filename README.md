@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=I+build+projects+that+turn+ideas+into+working+products.;ML+%7C+Full-stack+%7C+Systems+%7C+Sports+analytics.;Currently%3A+Building+NBA+analytics+tools+%26+refining+recommender+systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=500&lines=I+turn+ideas+into+working+products.;ML+%7C+Full-stack+%7C+Systems+%7C+Analytics;Focus%3A+NBA+Analytics+%26+Recommenders" />
 </p>
 
 <h2 align="center">Hey, I'm Dawit 👋</h2>
@@ -15,52 +15,57 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dawit-bonga/">Linkedin</a> •
-  <a href="mailto:dawitbonga0@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/dawit-bonga/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dawitbonga0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🔥 What I'm working on
-- 🏀 **NBA Prop + Betting Projects** — feature pipelines, evaluation, and decision logic
-- 🤖 **Anime Recommendation System** — CF/SVD + better cold-start + more “real recommender” engineering
-- 🧠 **Interview + systems grind** — building + practicing at the same time
+- 🏀 **NBA Prop + Betting Projects** — building pipelines for feature engineering, backtesting, and decision logic.
+- 🤖 **Anime Recommendation System** — handling high-dimensionality data (35M+ ratings) using SVD & sparse matrices.
+- 🧠 **Systems & Algorithms** — deepening knowledge in low-level systems and algorithmic optimization.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏀 NBA Prop Predictor
-Player prop modeling + data analysis + experimentation.  
-**Repo:** https://github.com/Dawit-Bonga/NBA_PROP_Predictor
+### 🏀 [NBA Prop Predictor](https://github.com/Dawit-Bonga/NBA_PROP_Predictor)
+> *End-to-end ML pipeline for player prop analysis.*
+* **The Tech:** Python, Pandas, Scikit-Learn.
+* **The Work:** developed feature pipelines to analyze player performance trends; implemented backtesting strategies to evaluate model performance against historical betting odds.
 
-### 🎬 Anime Recommendation System
-Built on MyAnimeList data; exploring collaborative filtering + hybrid recommenders.  
-**Repo:** https://github.com/Dawit-Bonga/Anime_Recommendation_System
+### 🎬 [Anime Recommendation System](https://github.com/Dawit-Bonga/Anime_Recommendation_System)
+> *High-performance collaborative filtering engine.*
+* **The Tech:** Python, SVD, CSR Matrices, Hybrid Filtering.
+* **The Work:** Processed a sparse dataset of **35M+ ratings** across 6,000 titles. Optimized memory usage by **90%** using Compressed Sparse Row matrices and solved "Cold Start" issues via a hybrid content-filtering architecture.
 
-### 🐚 Mini Shell (C)
-A mini-shell implementation to learn low-level systems fundamentals.  
-**Repo:** https://github.com/Dawit-Bonga/Mini-Shell
+### 🐚 [Mini Shell (C)](https://github.com/Dawit-Bonga/Mini-Shell)
+> *A custom UNIX-like shell implementation.*
+* **The Tech:** C, Linux API, Syscalls.
+* **The Work:** Built a functional shell from scratch to master process management, signal handling, and memory allocation at the OS level.
 
 ---
 
 ## 🧰 Tech I use
-**Languages:** Python, C/C++, JavaScript/TypeScript  
-**Frameworks:** FastAPI, React/Next.js  
-**Data/ML:** pandas, NumPy, scikit-learn  
-**Infra:** Docker, Git, CI/CD basics  
-**DB:** Postgres / SQLite
+<p align="center">
+  <b>Languages</b><br/>
+  Python, C/C++, JavaScript/TypeScript<br/><br/>
+  <b>Frameworks & Infra</b><br/>
+  FastAPI, React/Next.js, Docker, Postgres/SQLite<br/><br/>
+  <b>Data & ML</b><br/>
+  pandas, NumPy, scikit-learn
+</p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,nodejs,fastapi,postgres,docker,git,github,linux" />
 </p>
 
 ---
-
-<!-- <p align="center"> -->
-  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dawit-Bonga&show_icons=true&include_all_commits=true" /> -->
-  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawit-Bonga&layout=compact" /> -->
-<!-- </p> -->
 
 ---
 
